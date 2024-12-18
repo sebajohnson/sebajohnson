@@ -1,4 +1,7 @@
 ## Hi there 👋
+Sebastian Johnson
+Desarrollador Web Fullstack | Experto en PHP, Python y APIs | Creando soluciones escalables con Flask, AWS y Bases de Datos
+
 
 <!--
 **sebajohnson/sebajohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
