@@ -4,6 +4,7 @@ I am a **Full-Stack Web Developer** with over 13 years of experience, specialize
 Currently, I am transitioning into the **SAP ecosystem** with a focus on **SAP CPI** and **ABAP Cloud**, while continuing to strengthen my software engineering background.
 
 ---
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## 💻 Technical Skills
 <h4> Languages </h4>
@@ -19,11 +20,13 @@ Currently, I am transitioning into the **SAP ecosystem** with a focus on **SAP C
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
  
  
