@@ -1,8 +1,17 @@
 # 👋 Hi, I'm Sebastián Johnson
 
-I am a **Full-Stack Web Developer** with over 13 years of experience, specialized in **PHP (CodeIgniter, Laravel) and MySQL**, and proficient in **AWS, API integration, and system optimization**.  
-Currently, I am transitioning into the **SAP ecosystem** with a focus on **SAP CPI** and **ABAP Cloud**, while continuing to strengthen my software engineering background.
+### Full-Stack Developer · React · Node.js · PHP · SQL
 
+I am a bilingual Full-Stack Developer with 15+ years of experience building,
+modernizing, and optimizing web applications, e-commerce platforms, internal
+systems, and API-driven solutions.
+
+My work combines modern frontend development with React and JavaScript,
+backend development with Node.js and PHP, SQL databases, payment integrations,
+and cloud-based environments using Docker and AWS.
+
+I have worked with clients and international teams in both English and Spanish,
+including a recent fully remote project for a US-based organization.
 ---
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
